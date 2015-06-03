@@ -6,6 +6,10 @@
 
 [AdminLTE](https://github.com/almasaeed2010/AdminLTE) is a premium Bootstrap theme for backend.
 
+## Dependencies
+
+Its depend on [bootstrap-saas](https://github.com/twbs/bootstrap-sass) gem!
+
 ## Installation
 
 Add this line to your application's Gemfile:
